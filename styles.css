@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+html{
+    box-sizing: border-box;  
+}
+*,*:before, *:after{
+    box-sizing: border-box;
+}
+
+body{
+  font-family: Poppins;
+}
+
+.hero-area {
+  background: #040404;
+  color: #fff;
+  min-height: 100vh;
+}
+
+.navigation{
+  display: grid;
+  grid-template-columns: 75% 25%;
+  grid-auto-rows: 100%;
+}
+.navigation nav ul{
+  list-style-type: none;
+}
+.navigation nav ul li{
+  display: inline-block;
+  margin-right: 20px;
+}
+.talk{
+  text-decoration: underline;
+  text-transform: uppercase;
+  margin:20px;
+}
+h1{
+  font-size: 4rem;
+  margin-left: 60px;
+}
+.description{
+  font-size: 2rem;
+  margin: 60px;
+}
+.section-title{
+  margin: 30px;
+}
+#section-about{
+  margin: 30px;
+}
+#section-work{
+  margin: 30px;
+}
+.section-container {
+  margin: 0 30px;
+}
+.personality{
+  display: flex;
+  margin: 0 25px;
+}
+.personality p{
+  width: 50%;
+  margin: 0 5px
+}
+
+.talk{
+  color: #bb6f48;
+  margin: 20px 60px;
+}
+
+#page-footer {
+  background: #040404;
+  color: #fff;
+  padding: 15px 30px;
+}
+
+#page-footer a {
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 2px solid #bb6f48;
+}
