@@ -38,6 +38,15 @@ h1{
   font-size: 4rem;
   margin-left: 60px;
 }
+#body-section{
+  height: 70%;
+  margin-top: 10%;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-auto-rows: 100%;
+}
+
 .description{
   font-size: 2rem;
   margin: 60px;
