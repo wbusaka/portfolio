@@ -1,4 +1,4 @@
-<h2> Hey there! I'm WIlson Busaka.</h2>
+<h2> Hey there! I'm Wilson Busaka.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -16,13 +16,7 @@
 
 <br/>
 
-[![Wbusaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/wbusaka)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.wbusaka.github.io/"><img alt="Website" src=""></a>
-<a href="https://www.linkedin.com/in/wbusaka/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/wbusaka_/"><img alt="Twitter" src=""></a>
-<a href="mailto:wilbusaka@gmail.com"><img alt="Email" src=""></a>
 </p>
