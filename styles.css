@@ -19,7 +19,7 @@ body{
 
 .navigation{
   display: grid;
-  grid-template-columns: 75% 25%;
+  grid-template-columns: 70% 30%;
   grid-auto-rows: 100%;
 }
 .navigation nav ul{
