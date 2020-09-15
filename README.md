@@ -23,8 +23,6 @@ I write blog poststhat can be found on my personal blog [waylonwalker.com](https
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://waylonwalker.com/latest)
-
 <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
